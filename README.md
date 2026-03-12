@@ -2,7 +2,8 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Eduardo Kobal, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na Universidade Paulista (Unip). Sou apaixonado por tecnologia e edições de vídeo na qual faço pelo TikTok "[nexxxus](https://www.tiktok.com/@suxxxenrs?_r=1&_t=ZS-94cVd78OSph)", de algumas Gameplays jogando sozinho ou com amigos.
+Me chamo Eduardo Kobal, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na Universidade Paulista (Unip). Sou apaixonado por tecnologia e edições de vídeo na qual faço para o meu TikTok "[nexxxus](https://www.tiktok.com/@suxxxenrs?_r=1&_t=ZS-94cVd78OSph)" ou estes dois vídeos editados para um canal "[Editado](https://www.youtube.com/watch?v=BviL488jpBY&t=190s)" ou "[Sem Edição](https://www.youtube.com/watch?v=53vuPqVpx40&t=144s)".
+
 
 <p align="left">
     <a href="https://www.tiktok.com/@suxxxenrs?_r=1&_t=ZS-94cVd78OSph">
