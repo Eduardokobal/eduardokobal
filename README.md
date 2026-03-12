@@ -23,7 +23,7 @@ Me chamo Eduardo Kobal, tenho 21 anos e sou natural de São Paulo. Atualmente, e
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=White"
         />
     </a>
 </p>
