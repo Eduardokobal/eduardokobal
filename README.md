@@ -19,8 +19,7 @@ Me chamo Eduardo Kobal, tenho 21 anos e sou natural de São Paulo. Atualmente, e
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/eduardokobal
-">
+    <a href="www.linkedin.com/in/eduardokobal">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
